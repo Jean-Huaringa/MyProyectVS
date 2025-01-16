@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Package directories
+**/node_modules/
+**/packages/
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework Migrations
+Migrations/
+
+# Publish output
+wwwroot/
+appsettings.Development.json
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*~ 
+
+# JetBrains Rider IDE
+.idea/
+
+# macOS and Linux system files
+.DS_Store
+Thumbs.db
