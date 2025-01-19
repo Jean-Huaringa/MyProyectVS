@@ -32,9 +32,17 @@ ScaffoldingReadMe.txt
 # Entity Framework Migrations
 Migrations/
 
+# Ignorar archivos generados automáticamente
+wwwroot/node_modules/
+wwwroot/dist/
+wwwroot/lib/
 # Publish output
-wwwroot/
 appsettings.Development.json
+
+# Permitir todos los demás archivos estáticos
+!wwwroot/css/
+!wwwroot/js/
+!wwwroot/img/
 
 # Temporary files
 *.swp
