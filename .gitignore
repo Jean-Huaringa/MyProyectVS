@@ -35,7 +35,8 @@ Migrations/
 # Ignorar archivos generados automáticamente
 wwwroot/node_modules/
 wwwroot/dist/
-wwwroot/lib/
+my-project-dsw/wwwroot/lib/
+
 # Publish output
 appsettings.Development.json
 
